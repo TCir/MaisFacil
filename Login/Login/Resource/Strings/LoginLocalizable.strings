@@ -1,0 +1,15 @@
+/*
+ 
+  LoginLocalizable.strings
+  Login
+
+  Created by Thiago Valentim on 13/07/22.
+  
+*/
+
+"email"="Email";
+"password"="Senha";
+"buttonOpen"="Entrar";
+"buttonRegister"="Registrar";
+"emailPlaceHolder"="Endereço de email para logar";
+"passwordPlaceHolder"="Digite sua senha";
